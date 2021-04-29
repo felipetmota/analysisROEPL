@@ -36,6 +36,9 @@ The application have the objective to show the ROE (Return on Equity, profit of 
 # Clone the reposotiry 
 git clone https://github.com/felipetmota/analyticroepl.git
 
+# Import
+requirements.txt
+
 # Run the project
 streamlit run app.py
 ```
