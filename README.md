@@ -10,10 +10,6 @@ The Analysis ROE - P/L is a project with bout the book Analysis of the performan
 
 The application have the objective to show the ROE (Return on Equity, profit of the company with your net worth) and P/L (relation between price and paper profit).
 
-## The layout of the project
-
-![Example](https://github.com/felipetmota/analyticroepl/blob/main/roepl.png)
-
 # Tools
 - Visual Studio Code
 
